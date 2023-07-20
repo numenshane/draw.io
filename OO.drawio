@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T04:08:34.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="xjsGQCQGOoJ4HJFJE68r" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-20T04:11:52.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="aYJcug5FediIdfHHwFvM" version="21.0.2" type="github" pages="2">
   <diagram name="第 1 页" id="mnMW9S6vhByf_1TYlS10">
     <mxGraphModel dx="932" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
           <mxGeometry x="79" y="690" width="721" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-30" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="79" y="410" width="335" height="250" as="geometry" />
+          <mxGeometry x="79" y="410" width="311" height="220" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-1" value="ToB 需求侧&lt;br&gt;导流平台" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="60" width="100" height="60" as="geometry" />
@@ -114,16 +114,16 @@
           <mxGeometry x="30" y="203" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-26" value="撮合中心" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="134" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="104" y="450" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FzWOjz9zAjD-21MEWH3-27" value="计量中心" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="254" y="460" width="100" height="60" as="geometry" />
+        <mxCell id="3FzWOjz9zAjD-21MEWH3-27" value="商品中心" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="234" y="450" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FzWOjz9zAjD-21MEWH3-28" value="计费中心" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="134" y="550" width="100" height="60" as="geometry" />
+        <mxCell id="3FzWOjz9zAjD-21MEWH3-28" value="计量&lt;br&gt;计费中心" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="104" y="530" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-29" value="支付中心" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="254" y="550" width="100" height="60" as="geometry" />
+          <mxGeometry x="234" y="530" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-31" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="432.5" y="410" width="335" height="250" as="geometry" />
@@ -193,6 +193,9 @@
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-55" value="投诉 &amp;amp; 建议" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FzWOjz9zAjD-21MEWH3-56" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="720" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
