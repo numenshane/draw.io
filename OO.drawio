@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T04:05:27.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="nkE2Oa7lesmmFA9anJR7" version="21.6.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-23T04:06:37.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="4fyo9zwl-tyIZQhB6-IN" version="21.6.3" type="github" pages="2">
   <diagram name="第 1 页" id="mnMW9S6vhByf_1TYlS10">
     <mxGraphModel dx="932" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -278,6 +278,9 @@
         </mxCell>
         <mxCell id="eOWVepXUeaa1YayuUR31-6" value="消费端" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="48" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eOWVepXUeaa1YayuUR31-7" value="盈利模式&lt;br&gt;佣金&lt;br&gt;广告&lt;br&gt;金融&lt;br&gt;会员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354.5" y="120" width="81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
