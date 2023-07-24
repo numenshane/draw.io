@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T09:22:08.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="7YIHW2xC0C4RTTaQpvgW" version="21.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-24T09:22:17.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="ccADOmOwmBW50p9QPkXU" version="21.6.5" type="github" pages="3">
   <diagram name="第 1 页" id="mnMW9S6vhByf_1TYlS10">
     <mxGraphModel dx="932" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -295,7 +295,7 @@
           <mxGeometry x="359" y="530" width="91" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i7QfS_ZlqmcbJxc-0LVa-1" value="&lt;p data-pid=&quot;iykLAel1&quot; style=&quot;margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;订单是一次交易的生命周期，交易开始生成订单，结束的时候完成订单。这个订单就是消费者与平台的一个简单的契约，而契约上的东西都是平台履约内容，包括订单上的信息：发票（增票还是普票）、运费、时效、预约、优惠等等。&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="27.5" y="920" width="560" height="190" as="geometry" />
+          <mxGeometry x="27.5" y="920" width="582.5" height="190" as="geometry" />
         </mxCell>
         <mxCell id="i7QfS_ZlqmcbJxc-0LVa-2" value="计费" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="277.38" y="477.5" width="60.25" height="40" as="geometry" />
