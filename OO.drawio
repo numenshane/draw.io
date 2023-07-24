@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T10:07:35.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="HUs6aRVwEjEUmyeqWNAH" version="21.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-24T10:09:29.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="vleHxXOuwSGNM8aPjxmI" version="21.6.5" type="github" pages="3">
   <diagram name="第 1 页" id="mnMW9S6vhByf_1TYlS10">
     <mxGraphModel dx="1172" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -294,8 +294,8 @@
         <mxCell id="eOWVepXUeaa1YayuUR31-10" value="评价中心" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="378" y="530" width="91" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="i7QfS_ZlqmcbJxc-0LVa-1" value="&lt;p data-pid=&quot;iykLAel1&quot; style=&quot;margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;订单是一次交易的生命周期，交易开始生成订单，结束的时候完成订单。这个订单就是消费者与平台的一个简单的契约，而契约上的东西都是平台履约内容，包括订单上的信息：发票（增票还是普票）、运费、时效、预约、优惠等等。&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="27.5" y="920" width="582.5" height="190" as="geometry" />
+        <mxCell id="i7QfS_ZlqmcbJxc-0LVa-1" value="&lt;p data-pid=&quot;iykLAel1&quot; style=&quot;margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-35" y="1060" width="582.5" height="190" as="geometry" />
         </mxCell>
         <mxCell id="i7QfS_ZlqmcbJxc-0LVa-2" value="计费" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="296.38" y="477.5" width="60.25" height="40" as="geometry" />
@@ -320,9 +320,6 @@
         </mxCell>
         <mxCell id="i7QfS_ZlqmcbJxc-0LVa-12" value="商品创建" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="46" y="425" width="56" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lFskjQZ2PCmckqdqeggf-2" value="产品化思维" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="560" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lFskjQZ2PCmckqdqeggf-3" value="用户&lt;br&gt;中心" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-45" y="180" width="60" height="46" as="geometry" />
@@ -371,6 +368,9 @@
             <mxPoint x="665" y="223" as="sourcePoint" />
             <mxPoint x="710" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ysuumSPYMVVIcpJFChXi-3" value="&lt;h1&gt;排兵布阵 产品化思维&lt;/h1&gt;&lt;div&gt;&lt;p class=&quot;MsoNormal&quot;&gt;---专业的人做专业的事 开打&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color:inherit&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="870" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
