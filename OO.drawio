@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T14:29:04.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="fb42o-g-mODTATsBIZgD" version="21.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-24T14:31:24.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="vvLAGyUNXIfghutIBf8d" version="21.6.5" type="github" pages="3">
   <diagram name="第 1 页" id="mnMW9S6vhByf_1TYlS10">
     <mxGraphModel dx="932" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -372,7 +372,7 @@
         <mxCell id="ysuumSPYMVVIcpJFChXi-3" value="&lt;h1&gt;排兵布阵 产品化思维&lt;/h1&gt;&lt;div&gt;&lt;p class=&quot;MsoNormal&quot;&gt;---专业的人做专业的事 开打&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color:inherit&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-160" y="870" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="PBwplDWFwC0qP9ES-MlG-2" value="互联互通" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="PBwplDWFwC0qP9ES-MlG-2" value="生态&lt;br&gt;互联互通" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="310" y="607.5" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
