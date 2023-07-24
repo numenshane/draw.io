@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T00:12:56.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="b4ejdQR4U8snFbGPnq80" version="21.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-24T00:19:07.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="8SOLCJGUahlT9HlznQTX" version="21.6.5" type="github" pages="3">
   <diagram name="第 1 页" id="mnMW9S6vhByf_1TYlS10">
     <mxGraphModel dx="932" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
           <mxGeometry x="130" y="70" width="130" height="260" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-63" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="370" width="760" height="290" as="geometry" />
+          <mxGeometry x="80" y="370" width="660" height="290" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-30" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="195" y="395" width="155" height="205" as="geometry" />
@@ -226,7 +226,7 @@
           <mxGeometry x="605" y="445" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-75" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="750" width="275" height="60" as="geometry" />
+          <mxGeometry x="647.5" y="760" width="275" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-76" value="账户管理 财务管理&amp;nbsp; 支付 对账" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="168" width="200" height="40" as="geometry" />
@@ -254,7 +254,7 @@
             <mxPoint x="760" y="780" as="sourcePoint" />
             <mxPoint x="810" y="730" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="928" y="730" />
+              <mxPoint x="785" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
