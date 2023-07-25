@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T10:12:46.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="hGfXwz26kI6CrwFD-U76" version="21.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-25T10:13:16.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="MrJioZ6jwQhCLCj-xtaY" version="21.6.5" type="github" pages="3">
   <diagram name="第 1 页" id="mnMW9S6vhByf_1TYlS10">
     <mxGraphModel dx="1172" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -479,6 +479,9 @@
         </mxCell>
         <mxCell id="ysuumSPYMVVIcpJFChXi-3" value="&lt;h1&gt;排兵布阵 产品化思维&lt;/h1&gt;&lt;div&gt;&lt;p class=&quot;MsoNormal&quot;&gt;---专业的人做专业的事 开打&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color:inherit&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-343" y="800" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9edYSK3bWS5Uuao7dCxM-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
