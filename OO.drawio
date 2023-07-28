@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T09:19:52.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="aFrFuET9lYrLPfQn92Vr" version="21.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-28T09:21:31.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="ppTKeKkJkm_blIzmx79H" version="21.6.5" type="github" pages="2">
   <diagram id="8EDjJjbJvhK0y4aMau6F" name="第 2 页">
     <mxGraphModel dx="1999" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -232,8 +232,8 @@
             <mxPoint x="-163" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lFskjQZ2PCmckqdqeggf-10" value="复用底层平台技术，产品实验局 打磨产品 服务员工" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="67" y="16.5" width="310" height="79" as="geometry" />
+        <mxCell id="lFskjQZ2PCmckqdqeggf-10" value="复用底层平台技术，产品实验局 服务员工&amp;nbsp;打磨产品&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="81.25" y="28.25" width="310" height="55.5" as="geometry" />
         </mxCell>
         <mxCell id="lFskjQZ2PCmckqdqeggf-11" value="&lt;h1&gt;战略剖析 顶层架构&lt;/h1&gt;&lt;div&gt;业务术语 战略解码 催熟&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-313" y="35" width="250" height="120" as="geometry" />
