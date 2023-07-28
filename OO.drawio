@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T03:06:32.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="jlsU7byCv_QwEOQT56zF" version="21.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-28T03:07:25.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="-8ydEQMLCWJvoGmXZfrT" version="21.6.5" type="github" pages="2">
   <diagram id="8EDjJjbJvhK0y4aMau6F" name="第 2 页">
     <mxGraphModel dx="1999" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,8 +55,8 @@
         <mxCell id="3FzWOjz9zAjD-21MEWH3-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-15;" parent="1" vertex="1">
           <mxGeometry x="37" y="260" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3FzWOjz9zAjD-21MEWH3-19" value="园区 自有&lt;br&gt;（设备运维云）" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="350" y="110" width="100" height="60" as="geometry" />
+        <mxCell id="3FzWOjz9zAjD-21MEWH3-19" value="园区 自有&lt;br&gt;（有设备运维云）" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="350" y="110" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-165;" parent="1" vertex="1">
           <mxGeometry x="247" y="250" width="100" height="20" as="geometry" />
