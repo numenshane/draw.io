@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T17:37:28.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="zem6Diw4x9QtI-MXLw7Z" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-30T17:38:35.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="ZS7BKXSCuQhBanQK9IYR" version="21.6.6" type="github" pages="2">
   <diagram id="8EDjJjbJvhK0y4aMau6F" name="第 2 页">
     <mxGraphModel dx="2206" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -411,9 +411,6 @@
         <mxCell id="7x0cCV3g8YRODZ6PvKUd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7x0cCV3g8YRODZ6PvKUd-10" target="7x0cCV3g8YRODZ6PvKUd-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7x0cCV3g8YRODZ6PvKUd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7x0cCV3g8YRODZ6PvKUd-10" target="7x0cCV3g8YRODZ6PvKUd-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7x0cCV3g8YRODZ6PvKUd-10" value="充电导流&lt;br&gt;聚合平台" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-137" y="1119" width="120" height="80" as="geometry" />
         </mxCell>
@@ -528,14 +525,11 @@
         <mxCell id="F-QcpErnohuV-qcBUmVm-22" value="数据平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="F-QcpErnohuV-qcBUmVm-12" vertex="1">
           <mxGeometry x="-8" y="218" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R3n9-T8rDrIldlaU3XfC-1" value="协议A&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-43" y="1245" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="R3n9-T8rDrIldlaU3XfC-2" value="中电联 102协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-8" y="1130" width="60" height="30" as="geometry" />
+          <mxGeometry x="-34.5" y="1230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R3n9-T8rDrIldlaU3XfC-3" value="&lt;a href=&quot;https://max.book118.com/html/2019/0120/6131223011002003.shtm&quot;&gt;充电桩平台通讯协议.pdf&amp;nbsp;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-58" y="1210" width="172" height="30" as="geometry" />
+          <mxGeometry x="-146.5" y="1290" width="172" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R3n9-T8rDrIldlaU3XfC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R3n9-T8rDrIldlaU3XfC-8" target="R3n9-T8rDrIldlaU3XfC-9">
           <mxGeometry relative="1" as="geometry" />
