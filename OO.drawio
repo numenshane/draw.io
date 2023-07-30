@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T01:09:45.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="H3cc1NmYpooJL8xkBhzC" version="21.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-30T10:02:11.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="CAl8cXjrH-P7vUNy7IIq" version="21.6.5" type="github" pages="2">
   <diagram id="8EDjJjbJvhK0y4aMau6F" name="第 2 页">
     <mxGraphModel dx="1999" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -468,6 +468,21 @@
         </mxCell>
         <mxCell id="8AI79fwWZx6Hy9ljnEo1-14" value="账号管理" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="548" y="473" width="59" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7x0cCV3g8YRODZ6PvKUd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7x0cCV3g8YRODZ6PvKUd-1" target="7x0cCV3g8YRODZ6PvKUd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7x0cCV3g8YRODZ6PvKUd-1" value="设备&lt;br&gt;运维云SaaS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="1200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7x0cCV3g8YRODZ6PvKUd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7x0cCV3g8YRODZ6PvKUd-2" target="7x0cCV3g8YRODZ6PvKUd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7x0cCV3g8YRODZ6PvKUd-2" value="设备" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="1321" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7x0cCV3g8YRODZ6PvKUd-6" value="充电交易运营&lt;br&gt;SaaS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="1090" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
