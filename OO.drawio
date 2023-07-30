@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T10:02:11.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="CAl8cXjrH-P7vUNy7IIq" version="21.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-30T10:07:18.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="gyomcF2Mfg88Aauv43yC" version="21.6.5" type="github" pages="2">
   <diagram id="8EDjJjbJvhK0y4aMau6F" name="第 2 页">
     <mxGraphModel dx="1999" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -472,17 +472,35 @@
         <mxCell id="7x0cCV3g8YRODZ6PvKUd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7x0cCV3g8YRODZ6PvKUd-1" target="7x0cCV3g8YRODZ6PvKUd-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7x0cCV3g8YRODZ6PvKUd-1" value="设备&lt;br&gt;运维云SaaS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7x0cCV3g8YRODZ6PvKUd-1" value="设备&lt;br&gt;运维云SaaS&lt;br&gt;（控制器 软件）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="163" y="1200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7x0cCV3g8YRODZ6PvKUd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7x0cCV3g8YRODZ6PvKUd-2" target="7x0cCV3g8YRODZ6PvKUd-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7x0cCV3g8YRODZ6PvKUd-2" value="设备" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="163" y="1321" width="120" height="80" as="geometry" />
+        <mxCell id="7x0cCV3g8YRODZ6PvKUd-2" value="充电桩&lt;br&gt;设备&lt;br&gt;（硬件）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171.75" y="1320" width="103" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="7x0cCV3g8YRODZ6PvKUd-6" value="充电交易运营&lt;br&gt;SaaS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="163" y="1090" width="120" height="80" as="geometry" />
+        <mxCell id="7x0cCV3g8YRODZ6PvKUd-6" value="充电交易运营&lt;br&gt;SaaS（&lt;b&gt;服务&lt;/b&gt;）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="1089" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7x0cCV3g8YRODZ6PvKUd-9" value="场站&lt;br&gt;三方设备" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="1320" width="103" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="7x0cCV3g8YRODZ6PvKUd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7x0cCV3g8YRODZ6PvKUd-10" target="7x0cCV3g8YRODZ6PvKUd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7x0cCV3g8YRODZ6PvKUd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7x0cCV3g8YRODZ6PvKUd-10" target="7x0cCV3g8YRODZ6PvKUd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7x0cCV3g8YRODZ6PvKUd-10" value="充电导流&lt;br&gt;平台" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-46" y="1089" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7x0cCV3g8YRODZ6PvKUd-12" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-76" y="1020" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7x0cCV3g8YRODZ6PvKUd-13" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1020" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
