@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T12:18:34.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="VVglFElP17V2ekNg74p8" version="21.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-30T12:21:17.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="2l9r7BI0VGlhi-NwEf0u" version="21.6.5" type="github" pages="2">
   <diagram id="8EDjJjbJvhK0y4aMau6F" name="第 2 页">
     <mxGraphModel dx="1999" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
           <mxGeometry x="-32" y="605" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="eOWVepXUeaa1YayuUR31-9" value="设备运维&lt;br&gt;（云）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="82.13" y="610" width="100" height="40" as="geometry" />
+          <mxGeometry x="198" y="610" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eOWVepXUeaa1YayuUR31-10" value="体验&amp;amp;评价&lt;br&gt;中心" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="374" y="440" width="62" height="50" as="geometry" />
@@ -248,7 +248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PBwplDWFwC0qP9ES-MlG-2" value="生态&lt;br&gt;互联互通" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="193" y="609.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="319" y="610" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F-QcpErnohuV-qcBUmVm-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;供给侧&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="341.5" y="78" width="70" height="40" as="geometry" />
@@ -314,7 +314,7 @@
           <mxGeometry x="283" y="530" width="55" height="44" as="geometry" />
         </mxCell>
         <mxCell id="9edYSK3bWS5Uuao7dCxM-5" value="消息服务" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="298" y="610" width="98" height="40" as="geometry" />
+          <mxGeometry x="83" y="610" width="98" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9edYSK3bWS5Uuao7dCxM-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.87;entryY=-0.149;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="3FzWOjz9zAjD-21MEWH3-49" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
