@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T16:14:42.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="q_pMdJwtApLNqSS19t1t" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-30T16:30:14.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="8P_SmZrMQlFKVaI8FG9B" version="21.6.6" type="github" pages="2">
   <diagram id="8EDjJjbJvhK0y4aMau6F" name="第 2 页">
     <mxGraphModel dx="1759" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -516,7 +516,7 @@
         <mxCell id="R3n9-T8rDrIldlaU3XfC-1" value="协议A&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-43" y="1245" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R3n9-T8rDrIldlaU3XfC-2" value="协议B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="R3n9-T8rDrIldlaU3XfC-2" value="中电联 102协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-8" y="1130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R3n9-T8rDrIldlaU3XfC-3" value="&lt;a href=&quot;https://max.book118.com/html/2019/0120/6131223011002003.shtm&quot;&gt;充电桩平台通讯协议.pdf&amp;nbsp;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
