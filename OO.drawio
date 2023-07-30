@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T16:30:14.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="8P_SmZrMQlFKVaI8FG9B" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-30T17:25:21.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="G4Zk0LIgnAYTFytk8Sni" version="21.6.6" type="github" pages="2">
   <diagram id="8EDjJjbJvhK0y4aMau6F" name="第 2 页">
     <mxGraphModel dx="1759" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -431,6 +431,21 @@
         </mxCell>
         <mxCell id="7x0cCV3g8YRODZ6PvKUd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7x0cCV3g8YRODZ6PvKUd-17" target="7x0cCV3g8YRODZ6PvKUd-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R3n9-T8rDrIldlaU3XfC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7x0cCV3g8YRODZ6PvKUd-17" target="7x0cCV3g8YRODZ6PvKUd-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1076" />
+              <mxPoint x="430" y="1490" />
+              <mxPoint x="130" y="1490" />
+              <mxPoint x="130" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R3n9-T8rDrIldlaU3XfC-7" value="SDK 蓝牙 私有协议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R3n9-T8rDrIldlaU3XfC-6">
+          <mxGeometry x="-0.6159" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7x0cCV3g8YRODZ6PvKUd-17" value="APP" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="93.5" y="1061.5" width="76" height="28.5" as="geometry" />
