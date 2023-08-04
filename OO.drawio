@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T01:26:12.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="WV3aXjowPXyUDbRwPy0_" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-04T01:29:03.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="ryS3O2JWcjDOIwCtdN78" version="21.6.6" type="github" pages="2">
   <diagram id="8EDjJjbJvhK0y4aMau6F" name="第 2 页">
     <mxGraphModel dx="1759" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,10 +154,10 @@
         <mxCell id="i7QfS_ZlqmcbJxc-0LVa-8" value="品类管理&lt;br&gt;属性管理" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-53" y="425" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="i7QfS_ZlqmcbJxc-0LVa-9" value="库存管理&lt;br&gt;SKU" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="i7QfS_ZlqmcbJxc-0LVa-9" value="库存管理&lt;br&gt;SKU" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-128" y="535" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="i7QfS_ZlqmcbJxc-0LVa-10" value="定价管理" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="i7QfS_ZlqmcbJxc-0LVa-10" value="定价管理" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-50" y="535" width="62" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i7QfS_ZlqmcbJxc-0LVa-11" value="商品审核" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -170,7 +170,7 @@
           <mxGeometry x="-300" y="260" width="60" height="46" as="geometry" />
         </mxCell>
         <mxCell id="lFskjQZ2PCmckqdqeggf-4" value="运营商&lt;br&gt;服务" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="530" y="194" width="60" height="46" as="geometry" />
+          <mxGeometry x="530" y="194" width="90" height="46" as="geometry" />
         </mxCell>
         <mxCell id="lFskjQZ2PCmckqdqeggf-5" value="账号权限服务" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-146" y="605" width="100" height="45" as="geometry" />
@@ -295,13 +295,13 @@
         <mxCell id="8AI79fwWZx6Hy9ljnEo1-3" value="账号管理" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-219" y="420" width="59" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8AI79fwWZx6Hy9ljnEo1-5" value="优惠券" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="8AI79fwWZx6Hy9ljnEo1-5" value="收藏夹" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-221.5" y="554.5" width="59" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8AI79fwWZx6Hy9ljnEo1-6" value="积分" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="8AI79fwWZx6Hy9ljnEo1-6" value="积分 &lt;br&gt;优惠券" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-221.5" y="511.5" width="59" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8AI79fwWZx6Hy9ljnEo1-7" value="收藏夹" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="8AI79fwWZx6Hy9ljnEo1-7" value="钱包&amp;amp;支付" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-219" y="467" width="59" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8AI79fwWZx6Hy9ljnEo1-9" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
