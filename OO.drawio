@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T01:24:06.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="WjBadP58Kwp4fk0Jw3KY" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-13T01:26:07.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="OcTbg8gTaybU_jggGRnv" version="21.6.9" type="github" pages="2">
   <diagram id="8EDjJjbJvhK0y4aMau6F" name="第 2 页">
     <mxGraphModel dx="1951" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-253" y="370" width="893" height="290" as="geometry" />
         </mxCell>
         <mxCell id="F-QcpErnohuV-qcBUmVm-13" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="366" y="399" width="154" height="205" as="geometry" />
+          <mxGeometry x="366" y="397" width="154" height="204" as="geometry" />
         </mxCell>
         <mxCell id="i7QfS_ZlqmcbJxc-0LVa-5" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-138" y="394" width="170" height="205" as="geometry" />
@@ -223,9 +223,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F-QcpErnohuV-qcBUmVm-24" value="生态&lt;br&gt;服务" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="530" y="270" width="94" height="46" as="geometry" />
-        </mxCell>
         <mxCell id="F-QcpErnohuV-qcBUmVm-25" value="商户&lt;br&gt;管理" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="283" y="417.5" width="55" height="44" as="geometry" />
         </mxCell>
@@ -239,10 +236,10 @@
           <mxGeometry x="83" y="610" width="98" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-56" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-263" y="328" width="110" height="40" as="geometry" />
+          <mxGeometry x="-307" y="300" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-75" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="497" y="330" width="160" height="46" as="geometry" />
+          <mxGeometry x="507" y="244.55" width="133" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-37" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="37" y="680" width="170" height="60" as="geometry" />
@@ -278,10 +275,10 @@
           <mxGeometry x="-219" y="467" width="59" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8AI79fwWZx6Hy9ljnEo1-9" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="534" y="400" width="82" height="206" as="geometry" />
+          <mxGeometry x="534" y="398" width="82" height="206" as="geometry" />
         </mxCell>
         <mxCell id="8AI79fwWZx6Hy9ljnEo1-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;商家中心&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="536" y="401" width="80" height="40" as="geometry" />
+          <mxGeometry x="536" y="398" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8AI79fwWZx6Hy9ljnEo1-11" value="商家管理&lt;br&gt;（入驻）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="548" y="426" width="59" height="40" as="geometry" />
@@ -369,7 +366,7 @@
         <mxCell id="3FzWOjz9zAjD-21MEWH3-33" value="用户画像" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="F-QcpErnohuV-qcBUmVm-12" vertex="1">
           <mxGeometry x="16" y="22.75" width="69" height="46.5" as="geometry" />
         </mxCell>
-        <mxCell id="3FzWOjz9zAjD-21MEWH3-57" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;数据服务&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="F-QcpErnohuV-qcBUmVm-12" vertex="1">
+        <mxCell id="3FzWOjz9zAjD-21MEWH3-57" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;智能数据服务&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="F-QcpErnohuV-qcBUmVm-12" vertex="1">
           <mxGeometry x="10" y="-9" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-59" value="场站画像" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="F-QcpErnohuV-qcBUmVm-12" vertex="1">
