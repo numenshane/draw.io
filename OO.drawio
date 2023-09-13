@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T01:22:33.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="3vgxjcXVaW6uZhhPSsmn" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-13T01:24:06.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="WjBadP58Kwp4fk0Jw3KY" version="21.6.9" type="github" pages="2">
   <diagram id="8EDjJjbJvhK0y4aMau6F" name="第 2 页">
     <mxGraphModel dx="1951" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,14 +40,14 @@
         <mxCell id="3FzWOjz9zAjD-21MEWH3-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="257" y="203" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3FzWOjz9zAjD-21MEWH3-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="42" y="198" width="85" height="20" as="geometry" />
+        <mxCell id="3FzWOjz9zAjD-21MEWH3-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="41" y="188" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-16" value="三方运营平台&lt;br&gt;（城投、交投、发电集团）" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="352" y="260" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-30;" parent="1" vertex="1">
-          <mxGeometry x="35.75" y="250" width="100" height="20" as="geometry" />
+          <mxGeometry x="35.21" y="259.92" width="97.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3FzWOjz9zAjD-21MEWH3-19" value="ToB 园区自有&lt;br&gt;（有设备运维云）" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="350" y="110" width="110" height="60" as="geometry" />
@@ -650,7 +650,7 @@
           <mxGeometry x="-177.5" y="219.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4qYmVX27EFxRBrbYdg-m-6" value="车主服务" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-284.5" y="256.5" width="60" height="46" as="geometry" />
+          <mxGeometry x="-279" y="250" width="60" height="46" as="geometry" />
         </mxCell>
         <mxCell id="4qYmVX27EFxRBrbYdg-m-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4qYmVX27EFxRBrbYdg-m-6" target="4qYmVX27EFxRBrbYdg-m-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -681,6 +681,9 @@
             <mxPoint x="-92" y="157" as="sourcePoint" />
             <mxPoint x="-53" y="132" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4qYmVX27EFxRBrbYdg-m-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-20;" vertex="1" parent="1">
+          <mxGeometry x="44.38" y="224.55" width="79.25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
